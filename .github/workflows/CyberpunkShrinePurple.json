@@ -114,12 +114,12 @@
       "#f2f2f2"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#ac00fc",
-      "#ac00fc"
-    ],
-    "CHANNELS_DEFAULT": [
       "#210030",
       "#210030"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#ac00fc",
+      "#ac00fc"
     ],
     "TEXT_LINK": [
       "#babfeb",
