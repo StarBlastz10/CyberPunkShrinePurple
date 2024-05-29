@@ -62,8 +62,8 @@
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
-      "#161f28",
-      "#FFFFFF"
+      "#4c175a",
+      "#4c175a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#161f28",
@@ -114,12 +114,12 @@
       "#f2f2f2"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#111111",
-      "#ebedef"
+      "#520c61",
+      "#520c61"
     ],
     "CHANNELS_DEFAULT": [
-      "#c8c8c8",
-      "#6a7480"
+      "#520c61",
+      "#520c61"
     ],
     "TEXT_LINK": [
       "#babfeb",
